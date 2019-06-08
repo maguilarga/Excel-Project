@@ -1,4 +1,3 @@
-# hw1
 # Project Title
 
 One Paragraph of project description goes here
